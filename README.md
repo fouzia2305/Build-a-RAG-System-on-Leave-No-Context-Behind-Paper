@@ -11,12 +11,6 @@ Welcome to the RAG-Based QA Streamlit App! This application allows users to inte
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/rag-based-qa-streamlit-app.git
-    cd rag-based-qa-streamlit-app
-    ```
-
 2. Install required packages:
     ```bash
     pip install -r requirements.txt
